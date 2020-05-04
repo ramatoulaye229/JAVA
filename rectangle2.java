@@ -28,6 +28,4 @@ public abstract class Rectangle {
 	}
  
 	public double aire() {
-		return longueur * largeur;
-	}
- 
+		return longueur * largeur;}
